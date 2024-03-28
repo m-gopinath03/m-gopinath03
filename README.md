@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/m-gopinath03/m-gopinath03/blob/main/banner.jpg)
+![Banner Image](https://github.com/m-gopinath03/m-gopinath03/blob/main/profile_banner.png)
 
 Hi 👋 I'm M Gopinath
 ============================================================================
