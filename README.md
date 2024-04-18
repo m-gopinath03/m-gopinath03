@@ -9,7 +9,7 @@
 
 🚀 Expertise in Machine Learning, Deep Learning, and Computer Vision
 
-📊 Skilled in PyTorch, TensorFlow, MongoDB, and MySQL
+📊 Skilled in PyTorch, TensorFlow, MongoDB, and SQLite3
 
 📈 Strong statistical foundation for data-driven insights
 
